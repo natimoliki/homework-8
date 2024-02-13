@@ -1,4 +1,4 @@
-'use-strict';
+'use strict';
 
 const div = document.getElementById("api-users");
 const ulElement = document.getElementById("ul-lists");
